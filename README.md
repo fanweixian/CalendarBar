@@ -26,11 +26,4 @@ CalendarBar 不需要账号。只有在你主动连接系统日历后，应用�
 
 从 [Releases](../../releases) 下载适用于 Apple Silicon 的 DMG，将 CalendarBar 拖入“应用程序”文件夹后打开。
 
-## 构建
 
-使用 Xcode 打开 `CalendarBar.xcodeproj`，选择 `CalendarBar` scheme 和 `My Mac` 运行目标。
-
-也可以在项目目录运行：
-
-```sh
-Scripts/build-local.sh
